@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="c3p0-0.9.1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../_essentials/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/aspectjweaver-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/aspectj-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../_essentials/aspectj-1.9.4.jar!/files/doc/runtime-apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../_essentials/aspectj-1.9.4.jar!/files/doc/examples" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/aspectj-1.9.4.jar!/files/doc/examples/ltw" />
+    </SOURCES>
+  </library>
+</component>

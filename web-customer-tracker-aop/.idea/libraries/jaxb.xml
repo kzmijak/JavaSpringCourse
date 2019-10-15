@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jaxb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../_essentials/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/jaxb-impl-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/mysql-connector-java-8.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../_essentials/jstl-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
